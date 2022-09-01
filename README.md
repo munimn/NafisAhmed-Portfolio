@@ -1,5 +1,5 @@
 My Projects of both Data Science and Computer are shown below. The link for the github repos are given. 
-#Computer Science Project 
+## Computer Science Project 
 ### [Project 1: The Famous Wordle Game in JavaFX](https://github.com/munimn/wordlegamejavafx) 
 
 - Use of JavaFX and extensive use of inputs from user
