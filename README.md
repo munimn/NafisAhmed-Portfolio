@@ -13,8 +13,8 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 - You can login to your id and then post a job or see available jobs for you. 
 - As an user you can give ratings to workers who have completed jobs for you . You can also add the hours it took to complete the job
 ![](android1.png = 150x350)
-![](android2.png)
-![](android3.png)
-![](android4.png)
-![](android5.png)
-![](android6.png)
+![](android2.png = 150x350)
+![](android3.png = 150x350)
+![](android4.png = 150x350)
+![](android5.png = 150x350)
+![](android6.png = 150x350)
