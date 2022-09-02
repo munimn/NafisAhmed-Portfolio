@@ -14,11 +14,18 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 - As an user you can give ratings to workers who have completed jobs for you . You can also add the hours it took to complete the job
 
 
-<img src="android1.png" alt="android1" width= 50% height=50%/>
-<img src="android2.png" alt="android2" width= 50% height=50%/>
-<img src="android3.png" alt="android3" width= 50% height=50%/>
-<img src="android4.png" alt="android4" width= 50% height=50%/>
-<img src="android5.png" alt="android5" width= 50% height=50%/>
-<img src="android6.png" alt="android6" width= 50% height=50%/>
-<img src="android7.png" alt="android8" width= 50% height=50%/>
-<img src="android7.png" alt="android8" width= 50% height=50%/>
+<img src="android1.png" alt="android1" width="150" height="250"/>
+
+<img src="android2.png" alt="android2" width="150" height="250"/>
+
+<img src="android3.png" alt="android3" width="150" height="250"/>
+
+<img src="android4.png" alt="android4" width="150" height="250"/>
+
+<img src="android5.png" alt="android5" width="150" height="250"/>
+
+<img src="android6.png" alt="android6" width="150" height="250"/>
+
+<img src="android7.png" alt="android8" width="150" height="250"/>
+
+<img src="android7.png" alt="android8" width="150" height="250"/>
