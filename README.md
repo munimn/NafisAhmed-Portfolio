@@ -20,3 +20,5 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 <img src="android4.png" alt="android4" width= 50% height=50%/>
 <img src="android5.png" alt="android5" width= 50% height=50%/>
 <img src="android6.png" alt="android6" width= 50% height=50%/>
+<img src="android7.png" alt="android8" width= 50% height=50%/>
+<img src="android7.png" alt="android8" width= 50% height=50%/>
