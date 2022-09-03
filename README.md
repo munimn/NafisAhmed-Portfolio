@@ -59,3 +59,20 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 
 ![](reserve1.png)
 ![](reserve2.png)
+
+
+## Data Science Projects
+### [Project 1: A research project on ACS Data](https://munimn.github.io/researchprojectdata/)
+
+- data obtained from the 2020 ACS 5-Year via the **tidycensus package**.
+- **Big Data** cleaning, tidying, joining, manipulating, and feature engineering
+- Using Leaflet.js
+- Creating Interactive U.S Maps
+- Simpe Linear Regression , Multiple Linear Regression
+- Using Fixed Effects 
+- A deep inference and understanding about the results obtained from the models
+
+![](research1.png)
+
+
+
