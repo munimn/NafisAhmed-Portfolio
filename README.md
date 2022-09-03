@@ -60,6 +60,16 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 ![](reserve1.png)
 ![](reserve2.png)
 
+### [Project 6: A Concordance project](https://github.com/munimn/concordance) 
+
+- Built a concordance where you can input a text file and get the concordance of the text in the file 
+- Used sets and maps as Data Structures for fast searching 
+- The time complexity is O(log(n)) 
+
+![](pic1.png)
+![](pic2.png)
+
+
 
 ## Data Science Projects
 ### [Project 1: A research project on ACS Data](https://munimn.github.io/researchprojectdata/)
@@ -84,4 +94,41 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 - Inference about the best predictive model 
 
 ![](new1.png)
+
+
+### [Project 3: Bookdown - R, SQL, Web Scraping](https://github.com/munimn/Rcookbook) 
+
+
+- Introduction and Intermediate **R**  
+- Introduction to the **Tidyverse**, Data Visualization with **ggplot2** 
+- Categorical & Quantitative Data
+- Cleaning, Joining and Data Manipulation(Basic Feature Engieering)
+- Introduction to **SQL**
+- Joining Data in **SQL**
+- Web Scraping in **R**
+- Simpe Linear Regression , Multiple Linear Regression
+- Dummy Variable, Fixed Effects, Difference-in-Differences
+
+
+### [Project 4: Bookdown - Data Science in Python](https://github.com/munimn/machinelearningPythoncookbook) 
+
+- Introduction to Data Science in Python
+- Introduction to Matplotlib for graphs and plots
+- Introduction to Numpy, Scikit-Learn and Pandas
+- Creating basic predictive based models in python
+- Regression models, Knn classifier , Random Forest models 
+- A small project using feature engineering, data analysis, and building model to see best performance
+
+### [Project 5: Heart Disease Exploration using R](https://munimn.github.io/HeartDisease/) 
+
+- An analysis on Heart Peak rate and Cholesterol level 
+- Data taken from UCI ML Repository
+- A well written academic analysis on the issue
+- Use of MLR , SlR and basic data exploratory analysis with data cleaning 
+
+
+
+
+
+
 
