@@ -64,7 +64,7 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 ## Data Science Projects
 ### [Project 1: A research project on ACS Data](https://munimn.github.io/researchprojectdata/)
 
-- data obtained from the 2020 ACS 5-Year via the **tidycensus package**.
+- Data obtained from the 2020 ACS 5-Year via the **tidycensus package**.
 - **Big Data** cleaning, tidying, joining, manipulating, and feature engineering
 - Using Leaflet.js
 - Creating Interactive U.S Maps
@@ -75,4 +75,13 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 ![](research1.png)
 
 
+### [Project 2: World Happiness Score prediction](https://munimn.github.io/Worldhappiness/Final_Project_CMSC208--1-.html)
+
+- Data obtained from Kaggle 
+- Use of Different Predictive models 
+- Using Recipe package of R language 
+- Creating Interactive Graphs
+- Inference about the best predictive model 
+
+![](new1.png)
 
