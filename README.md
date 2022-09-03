@@ -58,4 +58,4 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 - There is a dropdown menu to save your reservations
 
 ![](reserve1.png)
-![](Screen Shot 2022-09-02 at 10.04.44 PM.png)
+![](reserve2.png)
