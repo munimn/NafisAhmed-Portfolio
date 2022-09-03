@@ -39,3 +39,12 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 
 ![](game1.png)
 ![](game2.png)
+
+
+### [Project 4: A Picture Puzzle](https://github.com/munimn/Picture-Puzzle-javafx) 
+
+- A picture puzzle game where you can move the tiles and solve the puzzle 
+- There is also a dropdown menu to scramble the puzzle or save
+- This game was built with javafx, java and using the sceneBuilder
+
+![](puzzle.png)
