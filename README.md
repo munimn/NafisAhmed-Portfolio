@@ -26,6 +26,16 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 
 <img src="android6.png" alt="android6" width="150" height="250"/>
 
-<img src="android7.png" alt="android8" width="150" height="250"/>
+<img src="android7.png" alt="android7" width="150" height="250"/>
 
 <img src="android7.png" alt="android8" width="150" height="250"/>
+
+
+### [Project 3: A maze treasure hunt game](https://github.com/munimn/Treasure-hunt-game-with-javafx) 
+
+- A JavaFX game where you can use the keyboard arrows and play around the maze to collect treasures
+- The game is built using java and javaFX. 
+- Each of the treasures are of different points and the game ends when all the treasures are collected. 
+
+![](game1.png)
+![](game2.png)
