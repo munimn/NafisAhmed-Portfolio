@@ -1,4 +1,5 @@
-My Projects of both Data Science and Computer are shown below. The link for the github repos are given. 
+My Projects of both Data Science and Computer are shown below. The link for the github repos are given.(Click the Project name)
+
 ## Computer Science Project 
 ### [Project 1: The Famous Wordle Game in JavaFX](https://github.com/munimn/wordlegamejavafx) 
 
@@ -48,3 +49,13 @@ My Projects of both Data Science and Computer are shown below. The link for the 
 - This game was built with javafx, java and using the sceneBuilder
 
 ![](puzzle.png)
+
+
+### [Project 5: A Room Scheduling Scene](https://github.com/munimn/Simple-Scheduling-javafx) 
+
+- A simple room reserving javaFX project 
+- There are 5 rooms and the available times where you can press the enter key and then drag the red box to the room and time you want to reserve it for 
+- There is a dropdown menu to save your reservations
+
+![](reserve1.png)
+![](reserve2.png)
